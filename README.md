@@ -1,5 +1,5 @@
 # Reinforcement Learning Specialization
-Reinforcement Learning Specialization offered by University of Alberta and Alberta Machine Inteligence Institute
+[Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning) offered by University of Alberta and Alberta Machine Inteligence Institute
 
 ## Course 1. Fundamentals of Reinforcement Learning
 The main goals of the course are:
